@@ -1,0 +1,9 @@
+bin
+target
+**/*.bak
+.project
+.classpath
+lib
+lib_res
+.settings
+**/*.class
